@@ -1,0 +1,11 @@
+**/Debug_Build
+**/Release_Build
+**/Release
+**/Debug
+**/__history
+**/bin
+*.local
+*.bak
+*.obj
+*.depend
+*.layout
